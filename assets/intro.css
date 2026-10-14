@@ -6,3 +6,14 @@
 @media(prefers-reduced-motion:reduce){.film-intro *{animation:none!important;transition:none!important}}
 #home-hero{scroll-margin-top:0}.film-intro{margin-left:-32px;width:calc(100% + 32px)}@media(max-width:640px){.film-intro{margin-left:-8px;width:calc(100% + 8px)}}
 .film-intro{z-index:111}
+/* Full-viewport film: no frame, letterboxing, scrim or separate black caption area. */
+.film-intro{height:100vh;height:100dvh;min-height:0;overflow:hidden;padding-bottom:max(20px,env(safe-area-inset-bottom));background:#173e32}
+.film-stage{position:absolute;inset:0;z-index:-1;margin:0;display:block;min-height:0}
+.film-stage video{position:absolute;inset:0;width:100%;height:100%;max-height:none;aspect-ratio:auto;object-fit:cover;object-position:center;opacity:1;background:transparent}
+.film-copy{margin:auto auto 0;padding-top:28px;position:relative;z-index:1}
+.film-copy h2,.film-copy>p,.film-badge,.film-bottom,.film-disclosure{text-shadow:0 2px 12px #000,0 1px 3px #0009}
+.film-copy>p,.film-badge,.film-bottom,.film-disclosure,.film-copy h2 em{color:#fff}
+.film-top img{filter:drop-shadow(0 2px 5px #0009)}
+.film-bottom,.film-disclosure{position:relative;z-index:1}.film-bottom{margin-top:32px}.film-disclosure{margin-top:16px}
+@media(max-width:900px){.film-intro{padding:18px 20px max(18px,env(safe-area-inset-bottom))}.film-stage{min-height:0}.film-stage video{height:100%;max-height:none;aspect-ratio:auto}.film-copy{padding-top:20px}.film-bottom{margin-top:24px}}
+@media(max-height:650px){.film-copy h2{font-size:30px!important;margin:8px 0!important}.film-copy>p{font-size:12px}.film-actions{margin-top:12px}.film-bottom{margin-top:14px}.film-disclosure{margin-top:8px}}
