@@ -1,0 +1,1252 @@
+[
+  {
+    "route": "/",
+    "hero_id": "home",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "paper",
+        "family": "comparison",
+        "asset": "heroes/home.svg",
+        "motion": "Quote rows align under a policy ribbon; a source line draws to the held delivery term."
+      },
+      {
+        "section": "Buyer / problem",
+        "surface": "mist",
+        "family": "normalization",
+        "composition": "Three quotes; differing pack sizes",
+        "motion": "Two source units resolve to pairs; original remains visible",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Source evidence",
+        "surface": "white",
+        "family": "evidence",
+        "composition": "An annotated quote excerpt",
+        "motion": "Explicit source reveal and connecting margin rule",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Five offers",
+        "surface": "sage",
+        "family": "suite",
+        "composition": "Five numbered folio rows",
+        "motion": "Selected module tab highlights; no hidden offering",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Reviewed workflow",
+        "surface": "paper",
+        "family": "process",
+        "composition": "Three editorial chapters",
+        "motion": "Trace stops at human approval; replay by user",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Demo entry",
+        "surface": "pine",
+        "family": "network",
+        "composition": "RF-202 preview desk",
+        "motion": "Source-to-field relationships reveal; DEMO labels persistent",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Controls",
+        "surface": "clay",
+        "family": "authority",
+        "composition": "Policy envelope and held action",
+        "motion": "Bounded range draws; prohibited branch remains blocked",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Pilot / pricing",
+        "surface": "cream",
+        "family": "steps",
+        "composition": "Scope and four entry gates",
+        "motion": "Numbered gate rail reveals; test price stays hypothetical",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "FAQ / opt-in",
+        "surface": "paper",
+        "family": "intake",
+        "composition": "Readable questions + inquiry",
+        "motion": "Accordion disclosure; subtle focus feedback",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Footer",
+        "surface": "pine",
+        "family": "institution",
+        "composition": "Company record and navigation",
+        "motion": "One subtle folio-rule entry; social logos stationary",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/products",
+    "hero_id": "products",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "sage",
+        "family": "suite",
+        "asset": "heroes/products.svg",
+        "motion": "Five distinct folio rules draw; every proposed offer stays visible."
+      },
+      {
+        "section": "Five independent jobs",
+        "surface": "white",
+        "family": "suite",
+        "composition": "Five numbered editorial rows; direct links to every module",
+        "motion": "Side rail expands on focus",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Choose the repeat job",
+        "surface": "mist",
+        "family": "steps",
+        "composition": "Category and present-tool diagnostic",
+        "motion": "Selection feedback; no predicted ROI",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Evidence and control",
+        "surface": "paper",
+        "family": "network",
+        "composition": "Source \u2192 normalized field \u2192 reviewer",
+        "motion": "Short line draw",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Pilot entry",
+        "surface": "cream",
+        "family": "intake",
+        "composition": "Bounded paid-pilot explanation",
+        "motion": "Static test-price label; focused inquiry",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/products/bids-desk",
+    "hero_id": "bids-desk",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "paper",
+        "family": "normalization",
+        "asset": "heroes/bids-desk.svg",
+        "motion": "Two pack formats resolve to 200 pairs while source excerpts remain attached."
+      },
+      {
+        "section": "Source formats",
+        "surface": "white",
+        "family": "normalization",
+        "composition": "Pack-size concordance; original and normalized units side by side",
+        "motion": "Source margin trace; explicit reveal",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Evidence & exceptions",
+        "surface": "mist",
+        "family": "evidence",
+        "composition": "White quote sheet and attached assumptions",
+        "motion": "Line draw to the exception; values stay fixed",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Reviewed workflow",
+        "surface": "paper",
+        "family": "process",
+        "composition": "Three editorial chapters: prepare, compare, review",
+        "motion": "Numbered rail stops at human authority",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Module boundaries",
+        "surface": "clay",
+        "family": "authority",
+        "composition": "Included job, excluded concessions and blocked action",
+        "motion": "Range settles; prohibited branch static",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Category pilot",
+        "surface": "cream",
+        "family": "steps",
+        "composition": "Scope, owner, envelope and consent gates",
+        "motion": "Short gate rail; no automated approval",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "FAQ & related modules",
+        "surface": "paper",
+        "family": "intake",
+        "composition": "Plain FAQ plus two relevant folio links",
+        "motion": "Click disclosures; restrained underline",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/products/bids-review",
+    "hero_id": "bids-review",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "mist",
+        "family": "comparison",
+        "asset": "heroes/bids-review.svg",
+        "motion": "Quote columns reveal their landed costs and lead-time exception."
+      },
+      {
+        "section": "Quote exceptions",
+        "surface": "white",
+        "family": "comparison",
+        "composition": "Landed cost columns plus a separate lead-time exception",
+        "motion": "Source margin trace; explicit reveal",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Evidence & exceptions",
+        "surface": "mist",
+        "family": "evidence",
+        "composition": "White quote sheet and attached assumptions",
+        "motion": "Line draw to the exception; values stay fixed",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Reviewed workflow",
+        "surface": "paper",
+        "family": "process",
+        "composition": "Three editorial chapters: prepare, compare, review",
+        "motion": "Numbered rail stops at human authority",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Module boundaries",
+        "surface": "clay",
+        "family": "authority",
+        "composition": "Included job, excluded concessions and blocked action",
+        "motion": "Range settles; prohibited branch static",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Category pilot",
+        "surface": "cream",
+        "family": "steps",
+        "composition": "Scope, owner, envelope and consent gates",
+        "motion": "Short gate rail; no automated approval",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "FAQ & related modules",
+        "surface": "paper",
+        "family": "intake",
+        "composition": "Plain FAQ plus two relevant folio links",
+        "motion": "Click disclosures; restrained underline",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/products/bids-proof",
+    "hero_id": "bids-proof",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "cream",
+        "family": "timeline",
+        "asset": "heroes/bids-proof.svg",
+        "motion": "Notice rail reaches the reviewer date; clause change remains unaccepted."
+      },
+      {
+        "section": "Clause changes",
+        "surface": "white",
+        "family": "timeline",
+        "composition": "Dated notice rail and a held clause excerpt",
+        "motion": "Source margin trace; explicit reveal",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Evidence & exceptions",
+        "surface": "mist",
+        "family": "evidence",
+        "composition": "White quote sheet and attached assumptions",
+        "motion": "Line draw to the exception; values stay fixed",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Reviewed workflow",
+        "surface": "paper",
+        "family": "process",
+        "composition": "Three editorial chapters: prepare, compare, review",
+        "motion": "Numbered rail stops at human authority",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Module boundaries",
+        "surface": "clay",
+        "family": "authority",
+        "composition": "Included job, excluded concessions and blocked action",
+        "motion": "Range settles; prohibited branch static",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Category pilot",
+        "surface": "cream",
+        "family": "steps",
+        "composition": "Scope, owner, envelope and consent gates",
+        "motion": "Short gate rail; no automated approval",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "FAQ & related modules",
+        "surface": "paper",
+        "family": "intake",
+        "composition": "Plain FAQ plus two relevant folio links",
+        "motion": "Click disclosures; restrained underline",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/products/bids-signal",
+    "hero_id": "bids-signal",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "clay",
+        "family": "redline",
+        "asset": "heroes/bids-signal.svg",
+        "motion": "15 days changes to a proposed 30; the line stops at human approval."
+      },
+      {
+        "section": "Negotiation limits",
+        "surface": "white",
+        "family": "redline",
+        "composition": "Delivery-only redline next to prohibited concessions",
+        "motion": "Source margin trace; explicit reveal",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Evidence & exceptions",
+        "surface": "mist",
+        "family": "evidence",
+        "composition": "White quote sheet and attached assumptions",
+        "motion": "Line draw to the exception; values stay fixed",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Reviewed workflow",
+        "surface": "paper",
+        "family": "process",
+        "composition": "Three editorial chapters: prepare, compare, review",
+        "motion": "Numbered rail stops at human authority",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Module boundaries",
+        "surface": "clay",
+        "family": "authority",
+        "composition": "Included job, excluded concessions and blocked action",
+        "motion": "Range settles; prohibited branch static",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Category pilot",
+        "surface": "cream",
+        "family": "steps",
+        "composition": "Scope, owner, envelope and consent gates",
+        "motion": "Short gate rail; no automated approval",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "FAQ & related modules",
+        "surface": "paper",
+        "family": "intake",
+        "composition": "Plain FAQ plus two relevant folio links",
+        "motion": "Click disclosures; restrained underline",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/products/bids-report",
+    "hero_id": "bids-report",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "sage",
+        "family": "baseline",
+        "asset": "heroes/bids-report.svg",
+        "motion": "Two directly labeled cost bars enter once; review cost and comparability hold stay visible."
+      },
+      {
+        "section": "Baseline assumptions",
+        "surface": "white",
+        "family": "baseline",
+        "composition": "Apples-to-apples checklist before illustrative cost chart",
+        "motion": "Source margin trace; explicit reveal",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Evidence & exceptions",
+        "surface": "mist",
+        "family": "evidence",
+        "composition": "White quote sheet and attached assumptions",
+        "motion": "Line draw to the exception; values stay fixed",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Reviewed workflow",
+        "surface": "paper",
+        "family": "process",
+        "composition": "Three editorial chapters: prepare, compare, review",
+        "motion": "Numbered rail stops at human authority",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Module boundaries",
+        "surface": "clay",
+        "family": "authority",
+        "composition": "Included job, excluded concessions and blocked action",
+        "motion": "Range settles; prohibited branch static",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Category pilot",
+        "surface": "cream",
+        "family": "steps",
+        "composition": "Scope, owner, envelope and consent gates",
+        "motion": "Short gate rail; no automated approval",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "FAQ & related modules",
+        "surface": "paper",
+        "family": "intake",
+        "composition": "Plain FAQ plus two relevant folio links",
+        "motion": "Click disclosures; restrained underline",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/how-it-works",
+    "hero_id": "how-it-works",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "paper",
+        "family": "process",
+        "asset": "heroes/how-it-works.svg",
+        "motion": "Source \u2192 comparison \u2192 consent \u2192 human review \u2192 draft handoff draws once."
+      },
+      {
+        "section": "Prepare",
+        "surface": "white",
+        "family": "normalization",
+        "composition": "Permissioned closed RFQ and specification normalization",
+        "motion": "Source-unit concordance",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Compare and constrain",
+        "surface": "mist",
+        "family": "comparison",
+        "composition": "Comparable quotes, envelope and supplier alternatives",
+        "motion": "Rows enter; exceptions remain visible",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Review and hand off",
+        "surface": "paper",
+        "family": "process",
+        "composition": "Supplier-consented draft \u2192 human signature \u2192 draft PO",
+        "motion": "Trace stops at approval",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Verification",
+        "surface": "sage",
+        "family": "baseline",
+        "composition": "Defensible baseline, review cost and supplier feedback",
+        "motion": "Chart reveals without savings claim",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/use-cases",
+    "hero_id": "use-cases",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "mist",
+        "family": "map",
+        "asset": "heroes/use-cases.svg",
+        "motion": "Illustrative locations appear as category examples; no coverage or supplier-network claim."
+      },
+      {
+        "section": "Category-fit questions",
+        "surface": "white",
+        "family": "steps",
+        "composition": "Repeatability, comparability and willing suppliers",
+        "motion": "Numbered prompt rail",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Fictional category example",
+        "surface": "paper",
+        "family": "comparison",
+        "composition": "Safety gloves RF-202; stated constraints",
+        "motion": "Quote columns align",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Expansion gates",
+        "surface": "sage",
+        "family": "baseline",
+        "composition": "Only reviewed positive net value supports expansion",
+        "motion": "Illustrative assumptions, no coverage metrics",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/demo",
+    "hero_id": "demo",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "pine",
+        "family": "evidence",
+        "asset": "heroes/demo.svg",
+        "motion": "A source excerpt highlights and connects to its normalized field; labels are immediate."
+      },
+      {
+        "section": "Record queue",
+        "surface": "white",
+        "family": "suite",
+        "composition": "8\u201312 coherent synthetic records and explicit statuses",
+        "motion": "Selection highlight; no live-feed badge",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "RF-202 detail",
+        "surface": "paper",
+        "family": "comparison",
+        "composition": "Quote record plus original source pane",
+        "motion": "Disclosure links evidence to held delivery",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Envelope & consent",
+        "surface": "clay",
+        "family": "authority",
+        "composition": "Approved boundaries; Stonecap opt-out branch",
+        "motion": "Nonbinding draft; reviewer override",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Outcome draft",
+        "surface": "mist",
+        "family": "baseline",
+        "composition": "Held comparison with cost assumptions",
+        "motion": "PO export disabled / illustrative watermark",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/demo/workbench",
+    "hero_id": "workbench",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "paper",
+        "family": "network",
+        "asset": "heroes/workbench.svg",
+        "motion": "Source references connect to normalized fields and the reviewer node; opt-out branch stays blocked."
+      },
+      {
+        "section": "Record queue",
+        "surface": "white",
+        "family": "suite",
+        "composition": "8\u201312 coherent synthetic records and explicit statuses",
+        "motion": "Selection highlight; no live-feed badge",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "RF-202 detail",
+        "surface": "paper",
+        "family": "comparison",
+        "composition": "Quote record plus original source pane",
+        "motion": "Disclosure links evidence to held delivery",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Envelope & consent",
+        "surface": "clay",
+        "family": "authority",
+        "composition": "Approved boundaries; Stonecap opt-out branch",
+        "motion": "Nonbinding draft; reviewer override",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Outcome draft",
+        "surface": "mist",
+        "family": "baseline",
+        "composition": "Held comparison with cost assumptions",
+        "motion": "PO export disabled / illustrative watermark",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/controls",
+    "hero_id": "controls",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "pine",
+        "family": "authority",
+        "asset": "heroes/controls.svg",
+        "motion": "Authority path halts at human approval, with prohibited actions visibly blocked."
+      },
+      {
+        "section": "Envelope",
+        "surface": "white",
+        "family": "authority",
+        "composition": "Floor/ceiling, fixed spec and price, prohibited concessions",
+        "motion": "Bounded line; blocked branch remains labeled",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Consent and authority",
+        "surface": "paper",
+        "family": "consent",
+        "composition": "Optional participation plus human signature before binding",
+        "motion": "Explicit record disclosure",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Provenance and reversal",
+        "surface": "mist",
+        "family": "network",
+        "composition": "Source references, dated owner and reviewer override",
+        "motion": "Source \u2192 field trace",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "System limits",
+        "surface": "clay",
+        "family": "technology",
+        "composition": "No live ERP, sending or payments in concept",
+        "motion": "Static disabled-action labels",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/supplier-experience",
+    "hero_id": "supplier-experience",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "clay",
+        "family": "consent",
+        "asset": "heroes/supplier-experience.svg",
+        "motion": "The supplier view opens consent and decline branches; a declined branch cannot advance."
+      },
+      {
+        "section": "Invitation and scope",
+        "surface": "white",
+        "family": "consent",
+        "composition": "Plain explanation of voluntary delivery discussion",
+        "motion": "Letter line draws once",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Transcript example",
+        "surface": "paper",
+        "family": "redline",
+        "composition": "Synthetic invitation, reply, proposed term, reviewer stop",
+        "motion": "Reveal one excerpt on click",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Decline and withdrawal",
+        "surface": "clay",
+        "family": "authority",
+        "composition": "Equal prominence for participation and decline",
+        "motion": "Stable controls; no coercive animation",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Participation FAQ",
+        "surface": "mist",
+        "family": "intake",
+        "composition": "Data use, owner and deletion route",
+        "motion": "Accessible disclosure",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/pilot",
+    "hero_id": "pilot",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "cream",
+        "family": "steps",
+        "asset": "heroes/pilot.svg",
+        "motion": "Four entry gates gain a rule: category, owner, envelope and supplier consent."
+      },
+      {
+        "section": "Qualification gates",
+        "surface": "white",
+        "family": "steps",
+        "composition": "Category, named owner, envelope and supplier consent",
+        "motion": "Four gates enter once",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Closed-RFQ diagnostic",
+        "surface": "mist",
+        "family": "normalization",
+        "composition": "Permissioned anonymized historical comparison",
+        "motion": "Source line draws; no public upload",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Hypothetical pricing",
+        "surface": "cream",
+        "family": "baseline",
+        "composition": "$2,500 pilot and $1,000\u2013$3,500 category/month test hypothesis",
+        "motion": "Price stays static; no checkout",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Consented inquiry",
+        "surface": "paper",
+        "family": "intake",
+        "composition": "Purpose-limited email, role/company and category",
+        "motion": "Labeled fields, inline errors and explicit opt-in",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/request-pilot",
+    "hero_id": "request-pilot",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "paper",
+        "family": "intake",
+        "asset": "heroes/request-pilot.svg",
+        "motion": "Source-sheet rules draw beside stationary field labels; no form is submitted."
+      },
+      {
+        "section": "Qualification gates",
+        "surface": "white",
+        "family": "steps",
+        "composition": "Category, named owner, envelope and supplier consent",
+        "motion": "Four gates enter once",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Closed-RFQ diagnostic",
+        "surface": "mist",
+        "family": "normalization",
+        "composition": "Permissioned anonymized historical comparison",
+        "motion": "Source line draws; no public upload",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Hypothetical pricing",
+        "surface": "cream",
+        "family": "baseline",
+        "composition": "$2,500 pilot and $1,000\u2013$3,500 category/month test hypothesis",
+        "motion": "Price stays static; no checkout",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Consented inquiry",
+        "surface": "paper",
+        "family": "intake",
+        "composition": "Purpose-limited email, role/company and category",
+        "motion": "Labeled fields, inline errors and explicit opt-in",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/resources",
+    "hero_id": "resources",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "sage",
+        "family": "books",
+        "asset": "heroes/resources.svg",
+        "motion": "Three guide folios settle gently; titles stay visible."
+      },
+      {
+        "section": "Guide shelf",
+        "surface": "white",
+        "family": "books",
+        "composition": "Three reading guides grouped by buyer question",
+        "motion": "Folio underline on focus",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Featured method",
+        "surface": "paper",
+        "family": "baseline",
+        "composition": "Comparable-baseline reading preview",
+        "motion": "Single reference-line reveal",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Prepare a sample",
+        "surface": "mist",
+        "family": "anonymize",
+        "composition": "Permissioned sample guide without raw records",
+        "motion": "Click excerpt disclosure",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/resources/baseline-method",
+    "hero_id": "baseline-method",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "paper",
+        "family": "baseline",
+        "asset": "heroes/baseline-method.svg",
+        "motion": "Three assumption cards settle; the 15-versus-30-day hold remains visible."
+      },
+      {
+        "section": "Comparable basis",
+        "surface": "white",
+        "family": "normalization",
+        "composition": "Unit, specification, freight, tax and delivery checklist",
+        "motion": "Each assumption attaches to its source",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Illustrative cost test",
+        "surface": "sage",
+        "family": "baseline",
+        "composition": "Direct-labeled chart; review effort and pilot fees explained",
+        "motion": "Bars enter once; values fixed",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "What stays held",
+        "surface": "clay",
+        "family": "authority",
+        "composition": "15 vs 30 days exception; no accepted savings",
+        "motion": "Static exception + explicit reviewer reveal",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/resources/supplier-participation",
+    "hero_id": "supplier-participation",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "clay",
+        "family": "consent",
+        "asset": "heroes/supplier-participation.svg",
+        "motion": "The invitation, scope and withdrawal route draw as three independent entries."
+      },
+      {
+        "section": "Invitation and scope",
+        "surface": "white",
+        "family": "consent",
+        "composition": "Plain explanation of voluntary delivery discussion",
+        "motion": "Letter line draws once",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Transcript example",
+        "surface": "paper",
+        "family": "redline",
+        "composition": "Synthetic invitation, reply, proposed term, reviewer stop",
+        "motion": "Reveal one excerpt on click",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Decline and withdrawal",
+        "surface": "clay",
+        "family": "authority",
+        "composition": "Equal prominence for participation and decline",
+        "motion": "Stable controls; no coercive animation",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Participation FAQ",
+        "surface": "mist",
+        "family": "intake",
+        "composition": "Data use, owner and deletion route",
+        "motion": "Accessible disclosure",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/resources/sample-preparation",
+    "hero_id": "sample-preparation",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "mist",
+        "family": "anonymize",
+        "asset": "heroes/sample-preparation.svg",
+        "motion": "Identifiers become neutral blocks in a clearly illustrative document; no actual uploads."
+      },
+      {
+        "section": "Permission and minimization",
+        "surface": "white",
+        "family": "anonymize",
+        "composition": "Neutral sample worksheet and source categories",
+        "motion": "Illustrative redaction blocks settle once",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Sample checklist",
+        "surface": "paper",
+        "family": "steps",
+        "composition": "Spec, pack sizes, freight, lead time, currency and source dates",
+        "motion": "Numbered checklist; no automatic green checks",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Secure next step",
+        "surface": "mist",
+        "family": "intake",
+        "composition": "Discuss approved data transfer before sharing records",
+        "motion": "Static contact path",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/about",
+    "hero_id": "about",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "paper",
+        "family": "institution",
+        "asset": "heroes/about.svg",
+        "motion": "Requester, procurement and reviewer pictograms connect through the shared record."
+      },
+      {
+        "section": "Company thesis",
+        "surface": "white",
+        "family": "institution",
+        "composition": "Reviewer role illustration; evidence-first mission",
+        "motion": "Connect role to decision record once",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Narrow initial scope",
+        "surface": "mist",
+        "family": "process",
+        "composition": "One repeatable category; supervised sourcing loop",
+        "motion": "Three numbered chapter rules",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "What must be proven",
+        "surface": "paper",
+        "family": "baseline",
+        "composition": "Supplier experience, net value and reviewed evidence",
+        "motion": "No progress counters or fake milestones",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Conversation",
+        "surface": "cream",
+        "family": "correspondence",
+        "composition": "Contact and partner paths",
+        "motion": "Underline / stationary icon",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/contact",
+    "hero_id": "contact",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "cream",
+        "family": "correspondence",
+        "asset": "heroes/contact.svg",
+        "motion": "Envelope line opens once above contact paths; no response-time promise."
+      },
+      {
+        "section": "Inquiry choices",
+        "surface": "white",
+        "family": "correspondence",
+        "composition": "Category pilot, consultant/partner and general contact",
+        "motion": "Stationary label with underline",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Contact form states",
+        "surface": "paper",
+        "family": "intake",
+        "composition": "Purpose-limited fields; real delivery endpoint required",
+        "motion": "Focused labels and explicit errors",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/sign-in",
+    "hero_id": "sign-in",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "pine",
+        "family": "access",
+        "asset": "heroes/sign-in.svg",
+        "motion": "Monogram settles once; access help remains immediately visible."
+      },
+      {
+        "section": "Access panel",
+        "surface": "white",
+        "family": "access",
+        "composition": "Complete email/password/help visual states; auth unconnected",
+        "motion": "Focus feedback only; input never delayed",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Alternative path",
+        "surface": "pine",
+        "family": "evidence",
+        "composition": "Fictional demo link and concept disclosure",
+        "motion": "Quiet underline",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/legal/privacy",
+    "hero_id": "privacy",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "paper",
+        "family": "privacy",
+        "asset": "heroes/privacy.svg",
+        "motion": "Header folio underline draws for 180ms; document body never moves."
+      },
+      {
+        "section": "Document scope",
+        "surface": "white",
+        "family": "privacy",
+        "composition": "704px reading column with anchored contents",
+        "motion": "Body static; instant anchor focus",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Operator and contact",
+        "surface": "paper",
+        "family": "correspondence",
+        "composition": "Real details required before launch",
+        "motion": "Static copy and ordinary links",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/legal/terms",
+    "hero_id": "terms",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "cream",
+        "family": "terms",
+        "asset": "heroes/terms.svg",
+        "motion": "Three numbered header rules settle once; legal text remains static."
+      },
+      {
+        "section": "Document scope",
+        "surface": "white",
+        "family": "terms",
+        "composition": "704px reading column with anchored contents",
+        "motion": "Body static; instant anchor focus",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      },
+      {
+        "section": "Operator and contact",
+        "surface": "paper",
+        "family": "correspondence",
+        "composition": "Real details required before launch",
+        "motion": "Static copy and ordinary links",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  },
+  {
+    "route": "/404",
+    "hero_id": "not-found",
+    "sections": [
+      {
+        "section": "Hero",
+        "surface": "mist",
+        "family": "missing",
+        "asset": "heroes/not-found.svg",
+        "motion": "A source line retraces to the open index and a Home route."
+      },
+      {
+        "section": "Recovery paths",
+        "surface": "white",
+        "family": "missing",
+        "composition": "Home, product overview and resources links",
+        "motion": "One restrained arrow transition",
+        "mobile": "One column; preserve labels, evidence and ordering. No horizontal dependency.",
+        "reduced_motion": "Final static composition; disclosure opens immediately."
+      }
+    ],
+    "global_footer": "Pine company record, complete nav, privacy/terms/contact; LinkedIn and Crunchbase only with verified profile URLs."
+  }
+]

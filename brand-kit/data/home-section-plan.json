@@ -1,0 +1,72 @@
+[
+  {
+    "section": "Hero",
+    "surface": "paper",
+    "family": "comparison",
+    "composition": "Open commercial ledger",
+    "motion": "Quote alignment + source trace; 2.8s once"
+  },
+  {
+    "section": "Buyer / problem",
+    "surface": "mist",
+    "family": "normalization",
+    "composition": "Three quotes; differing pack sizes",
+    "motion": "Two source units resolve to pairs; original remains visible"
+  },
+  {
+    "section": "Source evidence",
+    "surface": "white",
+    "family": "evidence",
+    "composition": "An annotated quote excerpt",
+    "motion": "Explicit source reveal and connecting margin rule"
+  },
+  {
+    "section": "Five offers",
+    "surface": "sage",
+    "family": "suite",
+    "composition": "Five numbered folio rows",
+    "motion": "Selected module tab highlights; no hidden offering"
+  },
+  {
+    "section": "Reviewed workflow",
+    "surface": "paper",
+    "family": "process",
+    "composition": "Three editorial chapters",
+    "motion": "Trace stops at human approval; replay by user"
+  },
+  {
+    "section": "Demo entry",
+    "surface": "pine",
+    "family": "network",
+    "composition": "RF-202 preview desk",
+    "motion": "Source-to-field relationships reveal; DEMO labels persistent"
+  },
+  {
+    "section": "Controls",
+    "surface": "clay",
+    "family": "authority",
+    "composition": "Policy envelope and held action",
+    "motion": "Bounded range draws; prohibited branch remains blocked"
+  },
+  {
+    "section": "Pilot / pricing",
+    "surface": "cream",
+    "family": "steps",
+    "composition": "Scope and four entry gates",
+    "motion": "Numbered gate rail reveals; test price stays hypothetical"
+  },
+  {
+    "section": "FAQ / opt-in",
+    "surface": "paper",
+    "family": "intake",
+    "composition": "Readable questions + inquiry",
+    "motion": "Accordion disclosure; subtle focus feedback"
+  },
+  {
+    "section": "Footer",
+    "surface": "pine",
+    "family": "institution",
+    "composition": "Company record and navigation",
+    "motion": "One subtle folio-rule entry; social logos stationary"
+  }
+]

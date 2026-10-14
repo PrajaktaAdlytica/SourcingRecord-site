@@ -1,0 +1,478 @@
+[
+  {
+    "name": "FileText",
+    "slug": "file-text",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Files",
+    "slug": "files",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "FileSearch",
+    "slug": "file-search",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "FileCheck2",
+    "slug": "file-check2",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "FileX2",
+    "slug": "file-x2",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "ClipboardList",
+    "slug": "clipboard-list",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "ClipboardCheck",
+    "slug": "clipboard-check",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "ListFilter",
+    "slug": "list-filter",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Columns3",
+    "slug": "columns3",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Table2",
+    "slug": "table2",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "GitCompareArrows",
+    "slug": "git-compare-arrows",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Scale",
+    "slug": "scale",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Package",
+    "slug": "package",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Ruler",
+    "slug": "ruler",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "CalendarClock",
+    "slug": "calendar-clock",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "CalendarDays",
+    "slug": "calendar-days",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "BellRing",
+    "slug": "bell-ring",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "History",
+    "slug": "history",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Clock3",
+    "slug": "clock3",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "SlidersHorizontal",
+    "slug": "sliders-horizontal",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "LockKeyhole",
+    "slug": "lock-keyhole",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "UnlockKeyhole",
+    "slug": "unlock-keyhole",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "UserRoundCheck",
+    "slug": "user-round-check",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "UserRoundX",
+    "slug": "user-round-x",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "UsersRound",
+    "slug": "users-round",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Building2",
+    "slug": "building2",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Landmark",
+    "slug": "landmark",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Handshake",
+    "slug": "handshake",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "MessageSquareText",
+    "slug": "message-square-text",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Send",
+    "slug": "send",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Ban",
+    "slug": "ban",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "CircleAlert",
+    "slug": "circle-alert",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "CircleCheck",
+    "slug": "circle-check",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "CircleX",
+    "slug": "circle-x",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "ArrowRight",
+    "slug": "arrow-right",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "ArrowUpRight",
+    "slug": "arrow-up-right",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "ArrowDownToLine",
+    "slug": "arrow-down-to-line",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "ExternalLink",
+    "slug": "external-link",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Search",
+    "slug": "search",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Menu",
+    "slug": "menu",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "X",
+    "slug": "x",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "ChevronDown",
+    "slug": "chevron-down",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "ChevronRight",
+    "slug": "chevron-right",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Plus",
+    "slug": "plus",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Minus",
+    "slug": "minus",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Mail",
+    "slug": "mail",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Eye",
+    "slug": "eye",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "EyeOff",
+    "slug": "eye-off",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "CircleHelp",
+    "slug": "circle-help",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Network",
+    "slug": "network",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "MapPinned",
+    "slug": "map-pinned",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "ChartNoAxesColumn",
+    "slug": "chart-no-axes-column",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "ChartLine",
+    "slug": "chart-line",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "ReceiptText",
+    "slug": "receipt-text",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Download",
+    "slug": "download",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Upload",
+    "slug": "upload",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Undo2",
+    "slug": "undo2",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Play",
+    "slug": "play",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Pause",
+    "slug": "pause",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "RotateCcw",
+    "slug": "rotate-ccw",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Link2",
+    "slug": "link2",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "BookOpen",
+    "slug": "book-open",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Check",
+    "slug": "check",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Copy",
+    "slug": "copy",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Settings2",
+    "slug": "settings2",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "GitPullRequestArrow",
+    "slug": "git-pull-request-arrow",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "Shield",
+    "slug": "shield",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  },
+  {
+    "name": "PanelRightOpen",
+    "slug": "panel-right-open",
+    "source": "Lucide 1.8.0",
+    "viewBox": "0 0 24 24",
+    "stroke": 1.75
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-14",
+  "scope": "Brand-kit artifacts and preview; not whole-site accessibility or production readiness",
+  "checks": {
+    "local_links_and_anchors": {
+      "passed": true,
+      "failures": []
+    },
+    "svg_xml": {
+      "passed": true,
+      "failures": []
+    },
+    "json_parse": "passed",
+    "fictional_arithmetic": "passed",
+    "route_section_coverage": "25/25",
+    "hero_names_unique": "25/25",
+    "solid_color_contrast": "18/18",
+    "javascript_syntax": "passed (node --check)",
+    "browser_preview": {
+      "desktop": "1440\u00d7900; fonts loaded; no document overflow; all images loaded",
+      "mobile": "390\u00d7844; no document overflow; readable record summaries",
+      "source_drawer": "opens, aria-expanded updates, closes with focus restored",
+      "reduced_motion": "preview control sets reduced class; OS CSS fallback included",
+      "pause_resume": "aria-pressed changes; animation play state controlled",
+      "disabled_send": "native disabled button; no action handler",
+      "sign_in_symbol": "vector path confirmed and visually inspected",
+      "text_geometry": "25 hero compositions checked for viewport clipping and text overlap"
+    }
+  },
+  "remaining_production_work": [
+    "Actual contact and social URLs",
+    "Live consented inquiry endpoint and privacy details",
+    "Production website and isolated demo implementation",
+    "Full device/assistive-technology QA for that implementation"
+  ]
+}

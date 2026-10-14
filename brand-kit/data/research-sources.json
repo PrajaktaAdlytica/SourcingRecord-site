@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Tropic \u2014 visual reference",
+    "url": "https://www.tropicapp.io/",
+    "accessed": "2026-10-14"
+  },
+  {
+    "title": "Fraunces \u2014 axes and open font license",
+    "url": "https://github.com/undercasetype/Fraunces",
+    "accessed": "2026-10-14"
+  },
+  {
+    "title": "Inter \u2014 family and license",
+    "url": "https://rsms.me/inter/",
+    "accessed": "2026-10-14"
+  },
+  {
+    "title": "GSAP \u2014 accessible motion",
+    "url": "https://gsap.com/resources/getting-started/accessibility/",
+    "accessed": "2026-10-14"
+  },
+  {
+    "title": "GSAP \u2014 ScrollTrigger",
+    "url": "https://gsap.com/docs/v3/Plugins/ScrollTrigger/",
+    "accessed": "2026-10-14"
+  },
+  {
+    "title": "GSAP \u2014 FLIP layout transitions",
+    "url": "https://gsap.com/docs/v3/Plugins/Flip/",
+    "accessed": "2026-10-14"
+  },
+  {
+    "title": "MDN \u2014 clip-path shutters",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/clip-path",
+    "accessed": "2026-10-14"
+  },
+  {
+    "title": "MDN \u2014 reduced motion",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/prefers-reduced-motion",
+    "accessed": "2026-10-14"
+  },
+  {
+    "title": "WCAG \u2014 text contrast",
+    "url": "https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html",
+    "accessed": "2026-10-14"
+  },
+  {
+    "title": "WCAG \u2014 target size",
+    "url": "https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html",
+    "accessed": "2026-10-14"
+  },
+  {
+    "title": "WCAG \u2014 pause, stop, hide",
+    "url": "https://www.w3.org/WAI/WCAG22/Understanding/pause-stop-hide.html",
+    "accessed": "2026-10-14"
+  },
+  {
+    "title": "Lucide \u2014 icon license",
+    "url": "https://lucide.dev/license",
+    "accessed": "2026-10-14"
+  },
+  {
+    "title": "Lucide \u2014 vector conventions",
+    "url": "https://lucide.dev/contribute/icons/code-conventions",
+    "accessed": "2026-10-14"
+  },
+  {
+    "title": "LinkedIn \u2014 logo usage",
+    "url": "https://brand.linkedin.com/in-logo",
+    "accessed": "2026-10-14"
+  },
+  {
+    "title": "Crunchbase \u2014 press assets",
+    "url": "https://about.crunchbase.com/press",
+    "accessed": "2026-10-14"
+  },
+  {
+    "title": "Natural Earth \u2014 public domain map data",
+    "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+    "accessed": "2026-10-14"
+  }
+]

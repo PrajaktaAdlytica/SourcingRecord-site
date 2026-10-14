@@ -1,0 +1,112 @@
+SOURCINGRECORD — COMMERCIAL LEDGER BRAND KIT v1.0
+Prepared 14 October 2026. Selected logo: option 3, Record Monogram.
+
+OPEN
+Open index.html in a browser with the whole folder intact. The interactive
+kit embeds its route data and does not need a server, external fonts or an
+animation CDN. For a local server: python3 -m http.server --directory . 8768
+Then open http://localhost:8768. Never upload private documents to this kit.
+
+FOUNDATIONS
+Identity: pine SR monogram, outlined wordmark, horizontal lockups, reverse
+and black versions. Favicon SVG/ICO/PNG 16–512px. Social avatar SVG.
+Clear space = mark height / 4. Min mark 24px; horizontal lockup 180px.
+Dedicated favicon uses a pine tile and inset white symbol for small sizes.
+The selected raster concept was vectorized; wordmark is outlined artwork.
+
+Core colors: paper #F7F4EA; white #FFFFFF; pine #173E32; ochre #D9B36C.
+Chapter tones: sage #DCE5DB; mist #E8EFED; clay #EEDDD5; cream #EFE8D8.
+Dark reading text #263D34; secondary #586B61; accent ink #705123.
+27 primitive colors and 29 semantic color roles in tokens.json/tokens.css.
+Keep the darker semantic inks for labels; pale tints never supply text color.
+18 contrast pairs measured; see data/contrast-audit.json for scope/thresholds.
+
+Fonts: Fraunces normal and italic + Inter normal, variable TTF and WOFF2.
+Display/H1/H2 Fraunces 500, SOFT 20/WONK 0, optical sizing auto.
+Body Inter 400; UI 450; emphasis 600; prices/dates tabular numerals.
+12 text styles supplied. Body 18px; product tables 14px; source notes 13px.
+Desktop 12-column grid / tablet 8 / mobile 4; 1248px content / 1408px wide.
+Gutters 48 / 32 / 24px. Grid gaps 24 / 24 / 16px. Prose max 704px.
+Sections 96 / 64 / 48px; cards 24px; panels 32px. Shared left edges.
+Spacing: 2, 4, 8, 12, 16, 20, 24, 32, 40, 48, 64, 80, 96, 128px.
+
+INTERACTIONS
+Reusable CSS includes default, hover, pressed, focus, disabled, loading,
+primary, secondary and reject controls. Main buttons 48px high, radius6,
+horizontal padding20, gap12. Focus outline2px/offset3px is immediate.
+12 live patterns: text flip, vertical shutter, horizontal shutter, directional
+wipe, arrow slot, icon exchange, underline, focus brackets, border rail,
+tactile press, limited magnetic face and source drawer.
+Use one expressive treatment per page; binding/consent actions stay stable.
+Text flips have one stable accessible name and decorative duplicate labels.
+Magnetic movement changes the inner face only, max4px, mouse/fine pointer.
+Motion supports keyboard and tap feedback; no hover-only critical content.
+Reduced motion is available through OS preferences and a kit preview toggle.
+
+MOTION & ART
+25 route-specific animated desktop hero SVGs, all first-frame readable.
+Eight reusable illustration SVGs: institution, authority, consent, process,
+baseline, reviewer figure, technology lines and digital pattern.
+Six vector textures. Two original generated editorial PNGs; prompts recorded.
+Native CSS/SVG animations run once and rest. Replay/pause controls exist in
+the guide; offscreen/page-hidden motion pauses. Reduced motion resolves to
+static final compositions. Legal text does not animate; headers are quiet.
+Mobile gallery swaps dense desktop diagrams for labeled, legible record
+summaries and short rails. The desktop SVGs are not mobile production UI.
+page-hero-plan.json and page-section-matrix.json define every IA route.
+The public website and production app have not been implemented in this kit.
+
+ASSET PROVENANCE
+UI icons: curated Lucide 1.8.0 set, 24px/1.75px round strokes, currentColor.
+68 individual icons and sprite.svg; include Lucide-LICENSE.txt downstream.
+Social: LinkedIn shape from Font Awesome Brands (CC BY 4.0 icon artwork).
+Credit: Font Awesome, https://fontawesome.com, icon faLinkedin.
+Crunchbase wordmark: unchanged official SVG. Compact cb: traced vector from
+its official PNG app icon, original blue preserved; not an official SVG master.
+Do not recolor, distort or morph these social marks. Company profile URLs
+remain null/unconfigured. Footer specimens are not misleading profile links.
+Fonts: SIL OFL1.1; licenses included. Natural Earth land map: public domain.
+Map locations are fictional illustrations, not supplier network coverage.
+See data/asset-provenance.json, data/research-sources.json and licenses/.
+
+PRODUCT POSITIONING
+Five separately proposed jobs, retained in their original intent:
+Bids Desk: requisition/specification normalization.
+Bids Review: competitive RFQ collection and comparable quotes.
+Bids Proof: renewal clause/change notice monitoring.
+Bids Signal: constrained negotiation on authorized NON-PRICE terms.
+Bids Report: reviewed outcome-to-PO and defensible-baseline verification.
+
+RF-202 is fictional. Quantity200 pairs; USD; source12 Oct2026, review14 Oct.
+Delta20 boxes×10 pairs×$50 per box+$40 freight=$1,040;15 days.
+Juniper10 boxes×20 pairs×$96 per box+$60 freight=$1,020;30 days, HELD.
+Stonecap8 boxes×25 pairs×$120 per box+$80 freight=$1,040;20 days, OPTED OUT.
+Price/spec fixed. Authorized delivery15–30 days;45-day suggestion blocked.
+Baseline$1,140 at15 days. Quote$1,020 at30 days is not yet comparable.
+Hypothetical review cost$30. $120 gross difference/$90 before pilot fee
+are arithmetic scenarios, not verified or realized savings. Pilot fee$2,500
+means this isolated RFQ cannot demonstrate positive net pilot value.
+Sending, signing, payments and ERP writes are disabled; no raw record intake.
+No customers, production integrations, certifications or testimonials claimed.
+
+IMPLEMENTATION ORDER
+1 Import tokens.css, then components.css; keep fonts/ relative paths intact.
+2 Use SVG logo masters + favicon; remove any third-party template artifacts.
+3 Follow the route/section matrix and canonical IA; preserve all five modules.
+4 Implement actual consented lead forms and verified contact/social details.
+5 Build the synthetic demo as an isolated deterministic state machine.
+6 Connect every displayed value to the data dictionary and source basis.
+7 Validate keyboard, screen reader, motion preferences and responsive layouts.
+8 Legal/operator/profile details and production infrastructure require real setup.
+Do not infer authorization to publish, send messages, charge or connect systems.
+
+RESEARCH
+Research was routed through configured Perplexity high research preset.
+Primary vendor/font/platform/accessibility documents are linked in the guide.
+Tropic informs confidence, scale and product clarity; our visual interpretation
+uses an original record, folio and source-annotation language. No cloning.
+The user's concept brief is authoritative over generic master-guide defaults.
+Upstream IA, visual research and logo research are included in references/.
+Their historical concept-stage notes remain references, not current product proof.
+
+WORDMARK CORRECTION: SVG even-odd fill is now preserved so all seven letter counters remain transparent. Selected SR symbol unchanged.

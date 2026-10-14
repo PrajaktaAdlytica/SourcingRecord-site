@@ -1,0 +1,14 @@
+{
+  "created": "2026-10-14",
+  "generator": "image_gen",
+  "images": [
+    {
+      "file": "images/archival-desk.png",
+      "prompt": "Use case: product-mockup. Asset type: original editorial brand image for SourcingRecord, Commercial Ledger theme. Create a premium human-art-directed overhead still life at 1600x1000: three unprinted warm ivory archival sheets with precise embossed-free ruled edges and one small dark pine paper tab, arranged in an asymmetric tidy commercial review desk composition. A single ochre brass straightedge rests at the far right. No text, figures, logos, charts, computer screens, stamps, currency, hands or invented customer documents. Natural tactile paper fibers and quiet soft daylight from left; clean contemporary materials, very restrained shadows. Palette ivory#F7F4EA, pine#173E32, ochre#D9B36C. Large clear empty ivory region left two-thirds for later heading; paper layers right-third show source-to-record metaphor. Avoid foliage, moody cinematic haze, gradient wallpaper, coffee/laptop stock-photo cliches or ornate vintage banking. This is a background/poster photo asset, not a product screenshot. Crisp highresolution matte image, sober beautiful editorial commerce identity."
+    },
+    {
+      "file": "images/indexed-folios.png",
+      "prompt": "Use case: product-mockup. Asset type: original editorial image for SourcingRecord resources and about pages. Produce a clean premium editorial still life1600x1000 with a sculptural arrangement of upright and horizontal blank ivory folio dividers, two solid pine index tabs and one muted ochre tab. Composition viewed front-three-quarter, occupies lower-left third, broad warm ivory empty space upper and right for later typography. Matte paper and finely cutcard, softly rounded smalltabcorners, shallow soft daylight shadows, precise document architecture. Color system ivory#F7F4EA pine#173E32 sage#DCE5DB ochre#D9B36C. No letters, writing, numbers, logos, people, seals, data, screens, folders with brandicons, leaves, circuitry or generic AI visual. Original contemporary commercialledger atmosphere, calm but distinct visual subject: organized source material. No embossed logo, luxurious gold foil, dramatic spotlight, depth-of-fieldblurhaze or digitalgradient. Intended static poster/background brand asset that can later complement subtle originalvectorline motion; never imply actual customer documents or operating product."
+    }
+  ]
+}

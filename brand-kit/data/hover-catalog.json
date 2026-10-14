@@ -1,0 +1,98 @@
+[
+  {
+    "id": "flip",
+    "name": "Text flip",
+    "usage": "Primary narrative CTA",
+    "mechanism": "Two decorative copies of the same label slide/rotate; one stable accessible name.",
+    "duration": "240ms",
+    "reduced_motion": "Stationary label"
+  },
+  {
+    "id": "shutter",
+    "name": "Vertical shutter",
+    "usage": "Explore demo",
+    "mechanism": "Two dark pine shutters close behind a fixed white label; contrast remains valid.",
+    "duration": "320ms",
+    "reduced_motion": "Instant background change"
+  },
+  {
+    "id": "shutter-x",
+    "name": "Horizontal shutter",
+    "usage": "Evidence and module link",
+    "mechanism": "Two opposing panels meet at a stable center; no content hidden.",
+    "duration": "320ms",
+    "reduced_motion": "Instant background change"
+  },
+  {
+    "id": "wipe",
+    "name": "Directional wipe",
+    "usage": "Discuss a pilot",
+    "mechanism": "Pine-to-deeper-pine plane moves left to right; label remains white.",
+    "duration": "280ms",
+    "reduced_motion": "Instant background change"
+  },
+  {
+    "id": "arrow-slot",
+    "name": "Arrow through slot",
+    "usage": "Read a guide",
+    "mechanism": "Arrow exits and reenters the same masked slot; label stays still.",
+    "duration": "220ms",
+    "reduced_motion": "Fixed arrow"
+  },
+  {
+    "id": "icon-swap",
+    "name": "Icon exchange",
+    "usage": "Open comparison",
+    "mechanism": "Right arrow crossfades to up-right arrow; action meaning remains unchanged.",
+    "duration": "200ms",
+    "reduced_motion": "Fixed right arrow"
+  },
+  {
+    "id": "underline",
+    "name": "Underline draw",
+    "usage": "Editorial links",
+    "mechanism": "Persistent link underline grows from 45% to 100%; focus gets same treatment.",
+    "duration": "180ms",
+    "reduced_motion": "Full underline"
+  },
+  {
+    "id": "brackets",
+    "name": "Focus brackets",
+    "usage": "Review/evidence control",
+    "mechanism": "Corner accents appear alongside an immediate continuous focus outline.",
+    "duration": "120ms",
+    "reduced_motion": "Continuous focus outline"
+  },
+  {
+    "id": "rail",
+    "name": "Border rail",
+    "usage": "Product index row",
+    "mechanism": "Side rule lengthens beside the row; no layout movement.",
+    "duration": "240ms",
+    "reduced_motion": "Full rail on focus"
+  },
+  {
+    "id": "press",
+    "name": "Tactile press",
+    "usage": "Confirmation in demo",
+    "mechanism": "Visual face descends 1px while the hit target stays stable.",
+    "duration": "120ms",
+    "reduced_motion": "Background feedback"
+  },
+  {
+    "id": "magnetic",
+    "name": "Limited magnetic face",
+    "usage": "One major desktop CTA",
+    "mechanism": "Decorative face follows fine pointer by maximum 4px; outer hit area stays still.",
+    "duration": "180ms",
+    "reduced_motion": "Stationary face"
+  },
+  {
+    "id": "source-reveal",
+    "name": "Evidence drawer",
+    "usage": "View source",
+    "mechanism": "Explicit click opens a real disclosure; source reference remains readable.",
+    "duration": "240ms",
+    "reduced_motion": "Instant disclosure"
+  }
+]

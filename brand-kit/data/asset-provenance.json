@@ -1,0 +1,53 @@
+{
+  "generated_images": [
+    {
+      "file": "images/archival-desk.png",
+      "type": "Original generated editorial still life",
+      "usage": "Poster / background; not product evidence"
+    },
+    {
+      "file": "images/indexed-folios.png",
+      "type": "Original generated editorial still life",
+      "usage": "Resources / about; blank materials only"
+    }
+  ],
+  "logos": {
+    "source": "Selected option 3 Record Monogram concept",
+    "format": "Traced vector monogram and outlined wordmark",
+    "legal": "Proposed identity; no trademark clearance inferred",
+    "counter_correction": "Preserved fill-rule=evenodd; seven transparent counters verified against original artwork."
+  },
+  "ui_icons": {
+    "source": "Lucide 1.8.0",
+    "license": "licenses/Lucide-LICENSE.txt",
+    "modification": "24px grid; normalized 1.75px stroke; SVG and sprite"
+  },
+  "social": {
+    "linkedin": {
+      "source": "Font Awesome Brands faLinkedin",
+      "url": "https://fontawesome.com/icons/linkedin?f=brands&s=solid",
+      "license": "CC BY 4.0 icon artwork; licenses/Font-Awesome-LICENSE.txt",
+      "variants": "Black and white; preserve mark shape",
+      "profile_url": null
+    },
+    "crunchbase": {
+      "source": "Official Crunchbase press/footer assets",
+      "url": "https://about.crunchbase.com/press",
+      "wordmark": "Unmodified official SVG",
+      "compact": "Vector trace of official 256px app PNG; original blue preserved. Not an official SVG master.",
+      "profile_url": null
+    }
+  },
+  "map": {
+    "source": "Natural Earth 1:110m land",
+    "source_url": "https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_110m_land.geojson",
+    "terms": "https://www.naturalearthdata.com/about/terms-of-use/",
+    "license": "Public domain",
+    "meaning": "Illustrative geography only; no network or territorial claims"
+  },
+  "fonts": {
+    "Fraunces": "SIL Open Font License 1.1; normal/italic variable TTF + WOFF2",
+    "Inter": "SIL Open Font License 1.1; normal variable TTF + WOFF2"
+  },
+  "product_records": "Fictional; data/demo-record.json; no real integrations or external writes"
+}

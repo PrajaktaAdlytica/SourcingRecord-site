@@ -1,0 +1,48 @@
+{
+  "demo": true,
+  "concept_preview": true,
+  "rfq": "RF-202",
+  "buyer": "Forgefield Services",
+  "quantity": 200,
+  "unit": "pairs",
+  "currency": "USD",
+  "source_date": "2026-10-12",
+  "review_date": "2026-10-14",
+  "spec": "SG-A v1",
+  "suppliers": [
+    {
+      "name": "Delta Supply",
+      "packs": 20,
+      "pairs_per_pack": 10,
+      "pack_price": 50,
+      "freight": 40,
+      "total": 1040,
+      "lead_days": 15,
+      "status": "in-scope"
+    },
+    {
+      "name": "Juniper Goods",
+      "packs": 10,
+      "pairs_per_pack": 20,
+      "pack_price": 96,
+      "freight": 60,
+      "total": 1020,
+      "lead_days": 30,
+      "status": "held"
+    },
+    {
+      "name": "Stonecap",
+      "packs": 8,
+      "pairs_per_pack": 25,
+      "pack_price": 120,
+      "freight": 80,
+      "total": 1040,
+      "lead_days": 20,
+      "status": "opted-out"
+    }
+  ],
+  "baseline": 1140,
+  "review_cost": 30,
+  "pilot_price_hypothesis": 2500,
+  "external_actions": false
+}

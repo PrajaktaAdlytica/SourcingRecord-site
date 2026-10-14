@@ -1,0 +1,149 @@
+{
+  "method": "WCAG relative luminance; solid color pairs only. Does not establish whole-site conformance.",
+  "pairs": [
+    {
+      "role": "Body",
+      "foreground": "#263D34",
+      "background": "#F7F4EA",
+      "ratio": 10.6,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "role": "Secondary text",
+      "foreground": "#586B61",
+      "background": "#F7F4EA",
+      "ratio": 5.17,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "role": "Primary button",
+      "foreground": "#FFFFFF",
+      "background": "#173E32",
+      "ratio": 11.85,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "role": "Primary hover",
+      "foreground": "#FFFFFF",
+      "background": "#245846",
+      "ratio": 8.21,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "role": "Primary pressed",
+      "foreground": "#FFFFFF",
+      "background": "#102D24",
+      "ratio": 14.76,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "role": "Sage chapter text",
+      "foreground": "#263D34",
+      "background": "#DCE5DB",
+      "ratio": 9.04,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "role": "Mist chapter text",
+      "foreground": "#263D34",
+      "background": "#E8EFED",
+      "ratio": 10.0,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "role": "Clay chapter text",
+      "foreground": "#263D34",
+      "background": "#EEDDD5",
+      "ratio": 8.86,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "role": "Ochre chapter text",
+      "foreground": "#263D34",
+      "background": "#D9B36C",
+      "ratio": 5.9,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "role": "Ochre text accent",
+      "foreground": "#705123",
+      "background": "#F7F4EA",
+      "ratio": 6.6,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "role": "Input boundary",
+      "foreground": "#788B7D",
+      "background": "#F7F4EA",
+      "ratio": 3.3,
+      "minimum": 3,
+      "passes": true
+    },
+    {
+      "role": "Light focus ring",
+      "foreground": "#6D4A19",
+      "background": "#F7F4EA",
+      "ratio": 7.22,
+      "minimum": 3,
+      "passes": true
+    },
+    {
+      "role": "Dark focus ring",
+      "foreground": "#E5C486",
+      "background": "#173E32",
+      "ratio": 7.1,
+      "minimum": 3,
+      "passes": true
+    },
+    {
+      "role": "Approved label",
+      "foreground": "#25613F",
+      "background": "#E1EEDD",
+      "ratio": 6.11,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "role": "Held label",
+      "foreground": "#835514",
+      "background": "#F6E7CB",
+      "ratio": 5.26,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "role": "Blocked label",
+      "foreground": "#963F3A",
+      "background": "#F8E3DD",
+      "ratio": 5.55,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "role": "Information label",
+      "foreground": "#315E70",
+      "background": "#E1EBEF",
+      "ratio": 5.84,
+      "minimum": 4.5,
+      "passes": true
+    },
+    {
+      "role": "Caption on white",
+      "foreground": "#586B61",
+      "background": "#FFFFFF",
+      "ratio": 5.69,
+      "minimum": 4.5,
+      "passes": true
+    }
+  ]
+}
