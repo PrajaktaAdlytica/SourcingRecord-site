@@ -190,3 +190,13 @@ body:not([data-page=workbench]) .hero-how-it-works .hero-bottom {color:#d3dfd3;b
 .hero-how-it-works .page-annotation {color:#dfbb7b}
 body:not([data-page=workbench]) .hero-how-it-works .sr-button.primary .icon {color:#153f32}
 .hero-how-it-works .motion-figure {color:var(--sr-ink)}
+
+/* Complete navigation: no hidden reading room or company pages. */
+body:not([data-page=workbench]) .desktop-nav [data-menu=resources]{display:inline-flex}
+body .masthead-note,body:not([data-page=workbench]) .masthead-note{display:none}
+body:not([data-page=workbench]) .desktop-nav{gap:18px}
+body:not([data-page=workbench]) .nav-inner{width:calc(100% - 64px);max-width:1440px;gap:24px}
+body .mega{max-height:calc(100dvh - 100px);overflow-y:auto;overscroll-behavior:contain}
+body .mobile-nav{overscroll-behavior:contain}
+@media(min-width:1151px) and (max-width:1300px){body:not([data-page=workbench]) .brand{width:190px!important}body:not([data-page=workbench]) .desktop-nav{gap:12px}body:not([data-page=workbench]) .nav-actions{gap:12px}body:not([data-page=workbench]) .nav-inner{gap:18px}}
+@media(max-width:640px){body:not([data-page=workbench]) .nav-inner{width:calc(100% - 40px)}}
