@@ -1,0 +1,127 @@
+[
+  {
+    "route": "/",
+    "id": "home",
+    "hero": "Open ledger"
+  },
+  {
+    "route": "/products",
+    "id": "products",
+    "hero": "Indexed suite"
+  },
+  {
+    "route": "/products/bids-desk",
+    "id": "bids-desk",
+    "hero": "Normalization concordance"
+  },
+  {
+    "route": "/products/bids-review",
+    "id": "bids-review",
+    "hero": "Comparison spread"
+  },
+  {
+    "route": "/products/bids-proof",
+    "id": "bids-proof",
+    "hero": "Dated margin"
+  },
+  {
+    "route": "/products/bids-signal",
+    "id": "bids-signal",
+    "hero": "Nonbinding redline"
+  },
+  {
+    "route": "/products/bids-report",
+    "id": "bids-report",
+    "hero": "Baseline bridge"
+  },
+  {
+    "route": "/how-it-works",
+    "id": "how-it-works",
+    "hero": "Reviewed process strip"
+  },
+  {
+    "route": "/use-cases",
+    "id": "use-cases",
+    "hero": "Category footprint"
+  },
+  {
+    "route": "/demo",
+    "id": "demo",
+    "hero": "Specimen invitation"
+  },
+  {
+    "route": "/demo/workbench",
+    "id": "workbench",
+    "hero": "Evidence workstation"
+  },
+  {
+    "route": "/controls",
+    "id": "controls",
+    "hero": "Authority margin"
+  },
+  {
+    "route": "/supplier-experience",
+    "id": "supplier-experience",
+    "hero": "Reply envelope"
+  },
+  {
+    "route": "/pilot",
+    "id": "pilot",
+    "hero": "Bounded pilot folio"
+  },
+  {
+    "route": "/request-pilot",
+    "id": "request-pilot",
+    "hero": "Inquiry sheet"
+  },
+  {
+    "route": "/resources",
+    "id": "resources",
+    "hero": "Guide shelf"
+  },
+  {
+    "route": "/resources/baseline-method",
+    "id": "baseline-method",
+    "hero": "Method worksheet"
+  },
+  {
+    "route": "/resources/supplier-participation",
+    "id": "supplier-participation",
+    "hero": "Consent correspondence"
+  },
+  {
+    "route": "/resources/sample-preparation",
+    "id": "sample-preparation",
+    "hero": "Anonymized source sheet"
+  },
+  {
+    "route": "/about",
+    "id": "about",
+    "hero": "Company thesis"
+  },
+  {
+    "route": "/contact",
+    "id": "contact",
+    "hero": "Correspondence desk"
+  },
+  {
+    "route": "/sign-in",
+    "id": "sign-in",
+    "hero": "Quiet ledger cover"
+  },
+  {
+    "route": "/legal/privacy",
+    "id": "privacy",
+    "hero": "Privacy folio"
+  },
+  {
+    "route": "/legal/terms",
+    "id": "terms",
+    "hero": "Numbered terms folio"
+  },
+  {
+    "route": "/404",
+    "id": "not-found",
+    "hero": "Missing index"
+  }
+]

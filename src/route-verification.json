@@ -1,0 +1,158 @@
+{
+  "routes": [
+    {
+      "route": "/404",
+      "words": 443,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/about",
+      "words": 723,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/contact",
+      "words": 640,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/controls",
+      "words": 787,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/demo",
+      "words": 721,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/demo/workbench",
+      "words": 302,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/how-it-works",
+      "words": 755,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/",
+      "words": 1435,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/legal/privacy",
+      "words": 661,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/legal/terms",
+      "words": 618,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/pilot",
+      "words": 687,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/products/bids-desk",
+      "words": 829,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/products/bids-proof",
+      "words": 873,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/products/bids-report",
+      "words": 874,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/products/bids-review",
+      "words": 823,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/products/bids-signal",
+      "words": 870,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/products",
+      "words": 760,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/request-pilot",
+      "words": 670,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/resources/baseline-method",
+      "words": 775,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/resources",
+      "words": 499,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/resources/sample-preparation",
+      "words": 585,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/resources/supplier-participation",
+      "words": 655,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/sign-in",
+      "words": 457,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/supplier-experience",
+      "words": 821,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/use-cases",
+      "words": 684,
+      "headings": 1,
+      "metadata": true
+    }
+  ],
+  "errors": [],
+  "transmission": "No networking or browser persistence APIs in application JS",
+  "forms": "Local-only preview; no pilot_request/consent_submit acknowledgement event emitted",
+  "status": "passed"
+}
