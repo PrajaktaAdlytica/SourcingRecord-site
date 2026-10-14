@@ -13,3 +13,4 @@ body[data-page=workbench] .mega{top:90px}.evidence-panel{top:106px}
 @keyframes demo-reference-arrival{from{transform:scaleX(.2)}to{transform:scaleX(1)}}
 body[data-page=workbench] .mobile-nav{top:90px;max-height:calc(100dvh - 90px)}
 @media(prefers-reduced-motion:reduce){.demo-header::after{animation:none!important}}
+@media(max-width:640px){body[data-page=workbench] .mobile-nav{top:102px;max-height:calc(100dvh - 102px)}.comparison-table thead{display:table-header-group;position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}}
