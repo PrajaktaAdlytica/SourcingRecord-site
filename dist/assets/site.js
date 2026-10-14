@@ -12,6 +12,17 @@ menus.forEach(b=>b.addEventListener('click',()=>{const open=b.getAttribute('aria
 document.addEventListener('click',ev=>{if(!ev.target.closest('.site-nav'))closeMenus();});document.addEventListener('keydown',ev=>{if(ev.key==='Escape'){const expanded=menus.find(b=>b.getAttribute('aria-expanded')==='true');closeMenus();if(expanded)expanded.focus();const toggle=$('.mobile-toggle');if(toggle?.getAttribute('aria-expanded')==='true'){toggle.click();toggle.focus();}}});
 const mobile=$('.mobile-toggle');mobile?.addEventListener('click',()=>{const open=mobile.getAttribute('aria-expanded')!=='true';mobile.setAttribute('aria-expanded',String(open));mobile.setAttribute('aria-label',open?'Close navigation':'Open navigation');$('#mobile-nav').hidden=!open;document.body.classList.toggle('menu-open',open);});
 document.addEventListener('keydown',ev=>{if(ev.key!=='Tab'||mobile?.getAttribute('aria-expanded')!=='true')return;const focusable=[mobile,...$('#mobile-nav').querySelectorAll('a')];const first=focusable[0],last=focusable[focusable.length-1];if(ev.shiftKey&&document.activeElement===first){ev.preventDefault();last.focus();}else if(!ev.shiftKey&&document.activeElement===last){ev.preventDefault();first.focus();}});
+// Reversible, staggered entrances without scroll hijacking or hidden content.
+if(document.body.dataset.page!=='workbench' && 'IntersectionObserver' in window){
+ const reduce=window.matchMedia('(prefers-reduced-motion: reduce)');
+ const selector=['.section-heading','.chapter-split > div','.evidence-layout > div','.editorial-module-layout > aside','.editorial-module-list > a','.module-index > a','.numbered-steps > article','.gate-grid > article','.pricing-grid > article','.faq-list > details','.control-list > li','.io-ledger > div','.policy-ledger > div','.calculation-ledger > div','.guide-shelf > a','.transcript-public > article','.closing-cta .container > div'].join(',');
+ const targets=$$('main '+selector.split(',').join(',main ')).filter(el=>!el.parentElement.closest(selector));
+ const groups=new Map();
+ targets.forEach(el=>{const group=el.closest('section')||el.parentElement;const n=groups.get(group)||0;groups.set(group,n+1);el.classList.add('scroll-reveal');el.style.setProperty('--reveal-x',n%2?'42px':'-42px');el.style.setProperty('--reveal-delay',Math.min(n%5*90,360)+'ms');});
+ const entrances=new IntersectionObserver(entries=>{entries.forEach(({target,isIntersecting})=>{target.classList.toggle('scroll-in-view',isIntersecting&&!reduce.matches&&!document.body.classList.contains('motion-paused'));});},{threshold:0,rootMargin:'-24px 0px -24px 0px'});
+ targets.forEach(el=>entrances.observe(el));
+ reduce.addEventListener('change',()=>{targets.forEach(el=>el.classList.remove('scroll-in-view'));if(!reduce.matches)targets.forEach(el=>{entrances.unobserve(el);entrances.observe(el);});});
+}
 const motion=new IntersectionObserver(es=>es.forEach(x=>x.target.classList.toggle('motion-offscreen',!x.isIntersecting)),{threshold:.12});$$('[data-motion]').forEach(el=>motion.observe(el));
 $$('.motion-toggle').forEach(b=>b.addEventListener('click',()=>{const paused=document.body.classList.toggle('motion-paused');$$('.motion-toggle').forEach(x=>{x.setAttribute('aria-pressed',String(paused));x.firstChild.textContent=paused?'Resume motion ':'Pause motion ';});}));
 $$('.motion-replay').forEach(b=>b.addEventListener('click',()=>{$$('[data-motion]').forEach(x=>{motion.unobserve(x);const next=x.cloneNode(true);x.replaceWith(next);motion.observe(next);});}));
