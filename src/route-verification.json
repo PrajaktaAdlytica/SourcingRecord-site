@@ -2,151 +2,151 @@
   "routes": [
     {
       "route": "/404",
-      "words": 457,
+      "words": 519,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/about",
-      "words": 737,
+      "words": 799,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/contact",
-      "words": 654,
+      "words": 716,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/controls",
-      "words": 801,
+      "words": 863,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/demo",
-      "words": 735,
+      "words": 797,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/demo/workbench",
-      "words": 310,
+      "words": 372,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/how-it-works",
-      "words": 768,
+      "words": 830,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/",
-      "words": 1317,
+      "words": 1379,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/legal/privacy",
-      "words": 675,
+      "words": 737,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/legal/terms",
-      "words": 632,
+      "words": 694,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/pilot",
-      "words": 700,
+      "words": 762,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/products/bids-desk",
-      "words": 843,
+      "words": 905,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/products/bids-proof",
-      "words": 885,
+      "words": 947,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/products/bids-report",
-      "words": 888,
+      "words": 950,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/products/bids-review",
-      "words": 836,
+      "words": 898,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/products/bids-signal",
-      "words": 882,
+      "words": 944,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/products",
-      "words": 773,
-      "headings": 1,
-      "metadata": true
-    },
-    {
-      "route": "/request-pilot",
-      "words": 684,
-      "headings": 1,
-      "metadata": true
-    },
-    {
-      "route": "/resources/baseline-method",
-      "words": 789,
-      "headings": 1,
-      "metadata": true
-    },
-    {
-      "route": "/resources",
-      "words": 513,
-      "headings": 1,
-      "metadata": true
-    },
-    {
-      "route": "/resources/sample-preparation",
-      "words": 599,
-      "headings": 1,
-      "metadata": true
-    },
-    {
-      "route": "/resources/supplier-participation",
-      "words": 669,
-      "headings": 1,
-      "metadata": true
-    },
-    {
-      "route": "/sign-in",
-      "words": 471,
-      "headings": 1,
-      "metadata": true
-    },
-    {
-      "route": "/supplier-experience",
       "words": 835,
       "headings": 1,
       "metadata": true
     },
     {
+      "route": "/request-pilot",
+      "words": 746,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/resources/baseline-method",
+      "words": 851,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/resources",
+      "words": 575,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/resources/sample-preparation",
+      "words": 661,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/resources/supplier-participation",
+      "words": 731,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/sign-in",
+      "words": 533,
+      "headings": 1,
+      "metadata": true
+    },
+    {
+      "route": "/supplier-experience",
+      "words": 897,
+      "headings": 1,
+      "metadata": true
+    },
+    {
       "route": "/use-cases",
-      "words": 698,
+      "words": 760,
       "headings": 1,
       "metadata": true
     }
