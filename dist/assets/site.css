@@ -12,3 +12,4 @@
 @media(prefers-reduced-motion:reduce){.mobile-graphic-row::before,.mobile-map-path{animation:none!important}}
 @media(max-width:1080px){body.menu-open{overflow:hidden}.mobile-nav{position:absolute;top:88px;left:0;right:0;max-height:calc(100dvh - 122px);border-bottom:1px solid var(--sr-border);box-shadow:var(--shadow-popover)}}
 @media(max-width:640px){.mobile-nav{top:72px;max-height:calc(100dvh - 102px)}}
+@media(max-width:640px){.pinned-demo{font-size:9px;letter-spacing:.025em}.pinned-demo span:last-child{max-width:155px}}
