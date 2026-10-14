@@ -182,3 +182,11 @@ body:not([data-page=workbench]) .product-green-section {
 .product-green-section .control-list li { border-color: #658274; }
 .product-green-section .text-link { color: #f7f4e9; text-underline-offset: 5px; }
 .product-green-section .text-link:hover { color: #dfbb7b; }
+
+/* Reviewed-process hero: matching footer pine. */
+body:not([data-page=workbench]) .hero-how-it-works {background:#153f32 url('/assets/textures/paper-grain.svg');color:#f7f4e9}
+body:not([data-page=workbench]) .hero-how-it-works .hero-bottom {color:#d3dfd3;border-color:#658274}
+.hero-how-it-works .hero-intro,.hero-how-it-works .hero-caption {color:#d3dfd3}
+.hero-how-it-works .page-annotation {color:#dfbb7b}
+body:not([data-page=workbench]) .hero-how-it-works .sr-button.primary .icon {color:#153f32}
+.hero-how-it-works .motion-figure {color:var(--sr-ink)}
