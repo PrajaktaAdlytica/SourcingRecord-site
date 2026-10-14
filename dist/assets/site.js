@@ -15,7 +15,7 @@ document.addEventListener('keydown',ev=>{if(ev.key!=='Tab'||mobile?.getAttribute
 // Reversible, staggered entrances without scroll hijacking or hidden content.
 if(document.body.dataset.page!=='workbench' && 'IntersectionObserver' in window){
  const reduce=window.matchMedia('(prefers-reduced-motion: reduce)');
- const selector=['.section-heading','.chapter-split > div','.evidence-layout > div','.editorial-module-layout > aside','.editorial-module-list > a','.module-index > a','.numbered-steps > article','.gate-grid > article','.pricing-grid > article','.faq-list > details','.control-list > li','.io-ledger > div','.policy-ledger > div','.calculation-ledger > div','.guide-shelf > a','.transcript-public > article','.closing-cta .container > div'].join(',');
+ const selector=['.section-heading','.qualifier-grid > div','.review-pair > article','.homepage-control-notes > article','.chapter-split > div','.evidence-layout > div','.editorial-module-layout > aside','.editorial-module-list > a','.module-index > a','.numbered-steps > article','.gate-grid > article','.pricing-grid > article','.faq-list > details','.control-list > li','.io-ledger > div','.policy-ledger > div','.calculation-ledger > div','.guide-shelf > a','.transcript-public > article','.closing-cta .container > div'].join(',');
  const targets=$$('main '+selector.split(',').join(',main ')).filter(el=>!el.parentElement.closest(selector));
  const groups=new Map();
  targets.forEach(el=>{const group=el.closest('section')||el.parentElement;const n=groups.get(group)||0;groups.set(group,n+1);el.classList.add('scroll-reveal');el.style.setProperty('--reveal-x',n%2?'42px':'-42px');el.style.setProperty('--reveal-delay',Math.min(n%5*90,360)+'ms');});
