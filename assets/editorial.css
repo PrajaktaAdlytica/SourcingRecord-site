@@ -167,3 +167,18 @@ body .mobile-nav{top:100%;max-height:calc(100dvh - 120px);z-index:151}
 .pricing-grid>article.ongoing-price::before,.pricing-grid>article.ongoing-price::after{background:#ece1ce}
 .pricing-grid>article:is(:hover,:focus-within){border-color:#9baf9c;box-shadow:0 10px 26px #173e3212}
 @media(prefers-reduced-motion:reduce){.pricing-grid>article,.pricing-grid>article::before,.pricing-grid>article::after{transition:none!important}}
+
+/* Footer pine carries the qualification and product control checkpoints. */
+body:not([data-page=workbench]) .product-green-section {
+  background: #153f32 url('/assets/textures/paper-grain.svg');
+  color: #f7f4e9;
+}
+.product-green-section .section-heading > p:not(.eyebrow),
+.product-green-section .gate-grid p { color: #d3dfd3; }
+.product-green-section .gate-grid span,
+.product-green-section .control-list .icon { color: #dfbb7b; }
+.product-green-section .gate-grid,
+.product-green-section .control-list,
+.product-green-section .control-list li { border-color: #658274; }
+.product-green-section .text-link { color: #f7f4e9; text-underline-offset: 5px; }
+.product-green-section .text-link:hover { color: #dfbb7b; }
