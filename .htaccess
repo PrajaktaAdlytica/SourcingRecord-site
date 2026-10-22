@@ -1,0 +1,9 @@
+DirectoryIndex index.html
+Options -Indexes
+ErrorDocument 404 /404.html
+
+# Do not expose repository metadata if the host checks out Git in public_html.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule (^|/)\.git(/|$) - [F,L]
+</IfModule>
