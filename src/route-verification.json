@@ -2,151 +2,151 @@
   "routes": [
     {
       "route": "/404",
-      "words": 519,
+      "words": 536,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/about",
-      "words": 799,
+      "words": 850,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/contact",
-      "words": 716,
+      "words": 768,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/controls",
-      "words": 863,
+      "words": 880,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/demo",
-      "words": 797,
+      "words": 814,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/demo/workbench",
-      "words": 372,
+      "words": 389,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/how-it-works",
-      "words": 830,
+      "words": 847,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/",
-      "words": 1956,
+      "words": 2003,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/legal/privacy",
-      "words": 737,
+      "words": 754,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/legal/terms",
-      "words": 694,
+      "words": 711,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/pilot",
-      "words": 762,
+      "words": 779,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/products/bids-desk",
-      "words": 905,
+      "words": 922,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/products/bids-proof",
-      "words": 947,
+      "words": 964,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/products/bids-report",
-      "words": 950,
+      "words": 967,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/products/bids-review",
-      "words": 898,
+      "words": 915,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/products/bids-signal",
-      "words": 944,
+      "words": 961,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/products",
-      "words": 835,
+      "words": 852,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/request-pilot",
-      "words": 746,
+      "words": 763,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/resources/baseline-method",
-      "words": 851,
+      "words": 868,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/resources",
-      "words": 575,
+      "words": 592,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/resources/sample-preparation",
-      "words": 661,
+      "words": 678,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/resources/supplier-participation",
-      "words": 731,
+      "words": 748,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/sign-in",
-      "words": 533,
+      "words": 550,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/supplier-experience",
-      "words": 897,
+      "words": 914,
       "headings": 1,
       "metadata": true
     },
     {
       "route": "/use-cases",
-      "words": 760,
+      "words": 777,
       "headings": 1,
       "metadata": true
     }
